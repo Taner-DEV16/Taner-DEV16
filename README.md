@@ -1,3 +1,1 @@
--Hi my name is Taner!
--I am a student who codes programs on my own.
--I am using Python Language
+
